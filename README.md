@@ -7,9 +7,9 @@ The data store will support the following functional requirements.
 
 2. A new key-value pair can be added to the data store using the Create operation. The key
 
-is always a string - capped at 32chars. The value is always a JSON object - capped at
+      is always a string - capped at 32chars. The value is always a JSON object - capped at
 
-16KB.
+      16KB.
 
 3. If Create is invoked for an existing key, an appropriate error must be returned. 4. A Read operation on a key can be performed by providing the key, and receiving the
 
