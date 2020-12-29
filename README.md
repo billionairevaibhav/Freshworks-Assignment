@@ -1,7 +1,7 @@
 # Freshworks-Assignment
 File based key-value data store.
 
-*This file requires compiler and library support for the ISO C++ 2011 standard. This support must be enabled with the -std=c++11 or -std=gnu++11 compiler options.*
+**This file requires compiler and library support for the ISO C++ 2011 standard. This support must be enabled with the -std=c++11 or -std=gnu++11 compiler options.**
 
 
 The data store will support the following functional requirements.
