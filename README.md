@@ -11,9 +11,9 @@ The data store will support the following functional requirements.
 
       16KB.
 
-3. If Create is invoked for an existing key, an appropriate error must be returned. 4. A Read operation on a key can be performed by providing the key, and receiving the
+3. If Create is invoked for an existing key, an appropriate error must be returned. 4. A Read operation on a key can be performed by providing the key, and                           receiving the
 
-value in response, as a JSON object.
+   value in response, as a JSON object.
 
 5. A Delete operation can be performed by providing the key.
 
